@@ -1,0 +1,13 @@
+C:\Users\AmoloI\source\repos\AmoloBank.Presentation\AmoloBank.Presentation\obj\Debug\netcoreapp3.1\AmoloBank.Presentation.AssemblyInfoInputs.cache
+C:\Users\AmoloI\source\repos\AmoloBank.Presentation\AmoloBank.Presentation\obj\Debug\netcoreapp3.1\AmoloBank.Presentation.AssemblyInfo.cs
+C:\Users\AmoloI\source\repos\AmoloBank.Presentation\AmoloBank.Presentation\obj\Debug\netcoreapp3.1\AmoloBank.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\AmoloI\source\repos\AmoloBank.Presentation\AmoloBank.Presentation\bin\Debug\netcoreapp3.1\AmoloBank.Presentation.exe
+C:\Users\AmoloI\source\repos\AmoloBank.Presentation\AmoloBank.Presentation\bin\Debug\netcoreapp3.1\AmoloBank.Presentation.deps.json
+C:\Users\AmoloI\source\repos\AmoloBank.Presentation\AmoloBank.Presentation\bin\Debug\netcoreapp3.1\AmoloBank.Presentation.runtimeconfig.json
+C:\Users\AmoloI\source\repos\AmoloBank.Presentation\AmoloBank.Presentation\bin\Debug\netcoreapp3.1\AmoloBank.Presentation.runtimeconfig.dev.json
+C:\Users\AmoloI\source\repos\AmoloBank.Presentation\AmoloBank.Presentation\bin\Debug\netcoreapp3.1\AmoloBank.Presentation.dll
+C:\Users\AmoloI\source\repos\AmoloBank.Presentation\AmoloBank.Presentation\bin\Debug\netcoreapp3.1\AmoloBank.Presentation.pdb
+C:\Users\AmoloI\source\repos\AmoloBank.Presentation\AmoloBank.Presentation\obj\Debug\netcoreapp3.1\AmoloBank.Presentation.dll
+C:\Users\AmoloI\source\repos\AmoloBank.Presentation\AmoloBank.Presentation\obj\Debug\netcoreapp3.1\AmoloBank.Presentation.pdb
+C:\Users\AmoloI\source\repos\AmoloBank.Presentation\AmoloBank.Presentation\obj\Debug\netcoreapp3.1\AmoloBank.Presentation.genruntimeconfig.cache
+C:\Users\AmoloI\source\repos\AmoloBank.Presentation\AmoloBank.Presentation\obj\Debug\netcoreapp3.1\AmoloBank.Presentation.csprojAssemblyReference.cache
